@@ -29,8 +29,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
+   
       <img width="136" alt="image" src="https://github.com/snkim22/belly-button-challenge/assets/125831024/d06ae850-6957-42e7-847d-9232aca2986e">
 
-6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
+7. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 
